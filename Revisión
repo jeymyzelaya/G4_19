@@ -1,0 +1,13 @@
+# G4_19
+se reviso su proyecto el cual esta bien pero esta estrcutura JSON no esta correcta y genera error en Postman
+"NOMBRE": "Floricel Herrera",
+     "RAZONSOCIAL": "UNAH",
+     "DIRECCION":col. Las Vegas",
+     "TIPO_SOCIO":2,
+     "CONTACTO":"Carlos Paz",
+     "EMAIL":"florH@gmail.com",
+     "FECHA_CREADO":"2021-11-1",
+     "ESTADO"="2",
+     "TELEFONO"="5675435"
+esta usando = en vez de :
+
